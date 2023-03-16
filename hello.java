@@ -1,7 +1,8 @@
-class Hello
+class  hello
 {
-public static void main(String args[])
+psvm (string args[])
 {
-system.out.println("hello");
+system.out.println("hi from local")
 }
 }
+
