@@ -2,7 +2,7 @@ class  hello
 {
 psvm (string args[])
 {
-system.out.println("hi from central repo");
+system.out.println("hi from central 2repo");
 }
 }
 
